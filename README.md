@@ -14,20 +14,20 @@ A responsive stats preview card layout designed with HTML and CSS. This project 
 - Google Fonts: Inter & Lexend Deca
 - Clean and modern UI
 - Dark background with purple overlay effect
-
-  ##  Tech Stack
+  
+## Tech Stack
 
 - HTML5
 - CSS3 (Flexbox, Media Queries)
 - Google Fonts
 
-##  Responsiveness
+## Responsiveness
 
 The layout is fully responsive:
 - Desktop: Side-by-side content and image
 - Tablet & Mobile: Stacked layout with image on top
 
-##  License
+## License
 
 This project is open-source and free to use for learning or inspiration.
 
